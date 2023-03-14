@@ -1,5 +1,5 @@
 # rancy_portfolio
-* What I was, I am, and will be working on!*
+* What I was, I am, and will be working on!
 
 # [Project 1: Stock Price Prediction LSTM](https://github.com/RancyChepchirchir/Stock_Price_Prediction_LSTM)
 
