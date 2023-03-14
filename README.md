@@ -7,3 +7,5 @@
 * Built a forecasting model with use of the LSTM artchitecture
 * Did a validation study with 0.30 of the dataset to check for accuracy
 * Did some visualization to compare the actual stock prices with the forecasted prices.
+
+![](https://github.com/RancyChepchirchir/rancy_portfolio/blob/main/images/META_daily.png)
